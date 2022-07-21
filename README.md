@@ -1,2 +1,2 @@
 # matrix_tools
-tools for working with matricecs
+tools for working with matrices
